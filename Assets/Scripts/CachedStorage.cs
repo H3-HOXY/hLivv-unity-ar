@@ -6,6 +6,9 @@ using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets;
 using SFile = System.IO.File;
 
+/**
+ * @author 이호연
+ */
 public class CachedStorage : MonoBehaviour
 {
     private ObjectSpawner _objectSpawner;

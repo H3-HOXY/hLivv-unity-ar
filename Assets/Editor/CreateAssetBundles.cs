@@ -1,5 +1,8 @@
 using UnityEditor;
 
+/**
+ * @author 이호연
+ */
 public class CreateAssetBundles
 {
     private const string BundlePath = "./AssetBundles";

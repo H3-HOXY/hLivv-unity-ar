@@ -1,6 +1,9 @@
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets;
 
+/**
+ * @author 이호연
+ */
 public class NativeInteraction : MonoBehaviour
 {
     [SerializeField] [Tooltip("오브젝트 생성을 처리하는 컴포넌트입니다.")]
